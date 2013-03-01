@@ -23,3 +23,10 @@ Usage
 
 Simply mark matchscheduler.py as executable and run. Python 2.X is needed, 
 download from http://python.org/download/
+-
+
+**Windows**
+
+I'll be providing a converted .exe in a couple of days, for now, download
+ Python 2.X at the above link and run `C:\Python2X\python.exe matchscheduler.py`
+ from Command Line
