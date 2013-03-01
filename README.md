@@ -1,7 +1,7 @@
 MatchScheduler
 ==============
 -
-My attempt at imporving FIRST's current system of Match Selection
+My attempt at improving FIRST's current system of Match Selection
 -
 ==============
 
@@ -22,4 +22,4 @@ Usage
 **Linux**
 
 Simply mark matchscheduler.py as executable and run. Python 2.X is needed, 
-download from http://python.org/
+download from http://python.org/download/
