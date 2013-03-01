@@ -14,3 +14,14 @@ difference in "pre-score" from the average "pre-score" where "pre-score" is
 simply the allies first round score minus their opponents first round score.
 Hopefully this integrates a bit more fairness into the random equation of 
 alliances.
+
+==============
+
+Usage
+
+==============
+
+**Linux**
+
+Simply mark matchscheduler.py as executable and run. Python 2.X is needed, 
+download from http://python.org/
